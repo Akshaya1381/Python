@@ -1,0 +1,15 @@
+.banner{
+      background-color: mediumorchid;
+      width:200%;
+      height:200px;
+      margin-bottom:50px;
+}
+
+.banner-text{
+
+top:10%;
+left:45%;
+position:absolute;
+text-align:center;
+transform:transform;
+}
